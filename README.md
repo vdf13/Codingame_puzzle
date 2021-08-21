@@ -1,16 +1,27 @@
 
 # Codingame_puzzle
 
+## FACILE ##
+
 Some codes of the codinGame puzzle
 * ASCII Art
 
+    - Chaînes de caractères, Tableaux, Boucles
     - L'art ASCII permet de représenter des formes en utilisant des caractères. 
         - ascii_art.py
     
 * MIME Type
 
-    - Le type MIME est utilisé dans de nombreux protocoles internet pour associer un type de média (html, image, vidéo, ...) avec le contenu envoyé. Ce type MIME est généralement déduit de l'extension du fichier à transférer.
+    -  Chaînes de caractères, Table de hachage, Boucles, Conditions 
+    -  Le type MIME est utilisé dans de nombreux protocoles internet pour associer un type de média (html, image, vidéo, ...) avec le contenu envoyé. Ce type MIME est généralement déduit de l'extension du fichier à transférer.
         - mime_type.py
+
+* Chevaux de courses:
+
+  - Tri, liste, Boucles
+  - Dans ce problème, vous devrez trouver les deux nombres les plus proches entre eux dans une liste de nombres. La liste peut être assez grande et vous aurez alors à trouver la meilleure complexité pour votre solution.
+      - race_horses.py
+
 * Other puzzle
 
   - Description
