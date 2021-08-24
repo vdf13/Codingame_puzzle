@@ -22,6 +22,14 @@ Some codes of the codinGame puzzle
   - Dans ce problème, vous devrez trouver les deux nombres les plus proches entre eux dans une liste de nombres. La liste peut être assez grande et vous aurez alors à trouver la meilleure complexité pour votre solution.
       - race_horses.py
 
+## MOYEN ##
+
+* Pertes en bourse
+
+  - Tableaux, Boucles, Conditions
+  - En vous basant sur une liste de valeurs, vous devez trouver non pas la valeur minimale, mais la perte maximale. Attention, la perte maximale peut s'étendre sur plusieurs valeurs.
+      - stock_losses.py
+
 * Other puzzle
 
   - Description
