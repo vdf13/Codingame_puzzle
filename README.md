@@ -22,6 +22,11 @@ Some codes of the codinGame puzzle
   - Dans ce problème, vous devrez trouver les deux nombres les plus proches entre eux dans une liste de nombres. La liste peut être assez grande et vous aurez alors à trouver la meilleure complexité pour votre solution.
       - race_horses.py
 
+* Other puzzle
+
+  - Description
+      - file.py
+
 ## MOYEN ##
 
 * Pertes en bourse
@@ -30,6 +35,12 @@ Some codes of the codinGame puzzle
   - En vous basant sur une liste de valeurs, vous devez trouver non pas la valeur minimale, mais la perte maximale. Attention, la perte maximale peut s'étendre sur plusieurs valeurs.
       - stock_losses.py
 
+* Skynet Revolution - Episode 1
+
+  - Avec ce puzzle, vous apprenez à stocker des données sous la forme d'un graphe. En cherchant et modifiant le graphe que vous aurez créé, vous pourrez vous initier à la théorie des graphes de manière appliquée.
+  - Graphes, Parcours en largeur
+      - skynet_rev_1.py
+      - 
 * Other puzzle
 
   - Description
