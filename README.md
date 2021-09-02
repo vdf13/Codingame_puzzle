@@ -41,6 +41,13 @@ Some codes of the codinGame puzzle
   - Graphes, Parcours en largeur
       - skynet_rev_1.py
       - 
+
+* Don't Panic - Episode 1
+
+  - Conditions 
+  - Dans ce puzzle, vous apprenez à repérer un objet sur une grille à une dimension.
+      - dont_panic_ep1.py
+
 * Other puzzle
 
   - Description
