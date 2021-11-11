@@ -22,6 +22,12 @@ Some codes of the codinGame puzzle
   - Dans ce problème, vous devrez trouver les deux nombres les plus proches entre eux dans une liste de nombres. La liste peut être assez grande et vous aurez alors à trouver la meilleure complexité pour votre solution.
       - race_horses.py
 
+* Rock paper scissor
+
+  - Tableaux, conditions
+  - An international Rock Paper Scissors Lizard Spock tournament is organized, all players receive a number when they register.
+      - rock_paper.py
+
 * Other puzzle
 
   - Description
