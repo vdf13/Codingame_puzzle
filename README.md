@@ -54,6 +54,12 @@ Some codes of the codinGame puzzle
   - Dans ce puzzle, vous apprenez à repérer un objet sur une grille à une dimension.
       - dont_panic_ep1.py
 
+* Scrabble
+
+  - Boucles, conditions
+  - Lorsqu'on joue au Scrabble©, chaque joueur tire 7 lettres et doit trouver le mot qui permet d'obtenir le meilleur score en utilisant ces lettres.
+      - scrabble.py
+ 
 * Other puzzle
 
   - Description
