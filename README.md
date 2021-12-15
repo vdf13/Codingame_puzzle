@@ -28,6 +28,12 @@ Some codes of the codinGame puzzle
   - An international Rock Paper Scissors Lizard Spock tournament is organized, all players receive a number when they register.
       - rock_paper.py
 
+* Rectangle partition
+
+  - Tableaux, boucles
+  - In all sub-rectangles (include the combinations of smaller rectangles), how many of them are squares?
+      - rectangle.py
+
 * Other puzzle
 
   - Description
