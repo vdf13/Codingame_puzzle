@@ -66,6 +66,13 @@ Some codes of the codinGame puzzle
   - Lorsqu'on joue au Scrabble©, chaque joueur tire 7 lettres et doit trouver le mot qui permet d'obtenir le meilleur score en utilisant ces lettres.
       - scrabble.py
  
+* Solid Integer
+
+  - Number theory
+  - We call an integer solid if it is positive and we do not need to use the digit 0 to write it down in base 10.
+      - solid.py
+
+
 * Other puzzle
 
   - Description
