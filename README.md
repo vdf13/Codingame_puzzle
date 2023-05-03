@@ -34,6 +34,12 @@ Some codes of the codinGame puzzle
   - In all sub-rectangles (include the combinations of smaller rectangles), how many of them are squares?
       - rectangle.py
 
+* Logic gates
+
+  - Logic
+  - A logic gate is an electronic device implementing a boolean function,
+       - logic.py
+
 * Other puzzle
 
   - Description
